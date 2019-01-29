@@ -1,4 +1,4 @@
-Shark.AttackME.md
+SharkAttackME.md
 ======
 
 
@@ -46,7 +46,7 @@ Uso .unique para visualizar cada registro único de los países.
 
 Hago limpieza de la columna Country, ya que hay algunos registros en minúsculas, y se eliminan/intercambian los caracteres extraños.
 
-### Paso 11
+### Paso 11 *
 
 Con value_counts se puede apreciar la cantidad de ataques que ha habido por país, con USA y Australia liderando claramente.
 
@@ -56,13 +56,13 @@ Hago lo mismo con la columna que indica si el ataque fue fatal o no, pero por lo
 
 ### Paso 13
 
-Limpio la columna de fatalidad
+Limpio la columna de fatalidad.
 
-### Paso 14
+### Paso 14 *
 
-Vuelvo a imprimir el value_counts de la fatalidad, y esta vez sí se puede apreciar más limpiamente que la cantidad de ataques que sí fueron fatales es casi el triple que los que no. Una "pequeña" cantidad de ataques arroja UNKNOWN, pero no es una cantidad demasiado significativa en comparación con el total.
+Vuelvo a imprimir el value_counts de la fatalidad, y esta vez sí se puede apreciar más limpiamente que la cantidad de ataques que sí fueron fatales es casi el triple que los que no. Una "pequeña" cantidad de ataques arroja UNKNOWN, pero no es una cantidad demasiado significativa en comparación con el total. Utilizo como parámetro de value_counts normalize=True, para que me muestre las proporciones, y luego lo multiplico todo por 100 para que se lean como porcentajes.
 
-### Paso 15
+### Paso 15 *
 
 Con el comando ejecutado prentendo visualizar cuántos ataques fueron "provocados" por cada motivo. Se puede apreciar que la gran mayoría de ellos fueron no provocados.
 
@@ -70,15 +70,29 @@ Con el comando ejecutado prentendo visualizar cuántos ataques fueron "provocado
 
 Hago binning con los años. El approach que hice fue una combinación entre equal width bins, ya que van por décadas desde el 1950, y custom-sized bins, ya que los ataques de antes del 1950 los metí todos en un solo contenedor, 'Others'.
 
-### Paso 17
+### Paso 17 *
 
-Para ver qué cantidad quedó en cada bin, hago un value_counts, igualando el parámetro sort a False para que no lo ordene por orden de cantidad sino de nombre de bin (décadas).
+Para ver qué cantidad quedó en cada bin, hago un value_counts, igualando el parámetro sort a False para que no lo ordene por orden de cantidad sino de nombre de bin (décadas). En un principio había puesto 0 como cutoff inferior y como algunos años eran 0 (los menores), al ejecutar la función pandas.cut categorizaba los 0 en NaN, por eso entendí que la función usa un mayor estricto, y no un mayor o igual.
+
+### Paso 18
+
+Muestro de nuevo un value_counts con los países para visualizar las proporciones (porcentajes).
+
+### Paso 19
+
+Se visualiza una relación entre los países y si los ataques fueron fatales o no. Al agregarle .sort_values(ascending=False) lo ordena de mayor a menor por la cantidad de N o Y, que si bien sin usarlo se puede apreciar cada N e Y de cada país, de esta forma se pueden ver los países que más ataques tienen y visualizar las diferencias entre los que sí fueron mortales y los que no. 
+
+### Paso 20 
+
+Guardo la tabla después de limpiar y manipular como 'Shark_After.csv'
 
 
 
 
+Conclusiones
+======
 
 
+* Conclusión 1
 
-
-Bins: al tratar de hacer bins por décadas, de la columna "Year", puse 0 como cutoff inferior y como algunos años eran 0 (los menores), al ejecutar la función pandas.cut categorizaba los 0 en NaN, por eso entendí que la función usa un mayor estricto, y no un mayor o igual que.
+* Conclusión 2
