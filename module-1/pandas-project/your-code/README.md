@@ -1,0 +1,1 @@
+Bins: al tratar de hacer bins por décadas, de la columna "Year", puse 0 como cutoff inferior y como algunos años eran 0 (los menores), al ejecutar la función pandas.cut categorizaba los 0 en NaN, por eso entendí que la función usa un mayor estricto, y no un mayor o igual que.
