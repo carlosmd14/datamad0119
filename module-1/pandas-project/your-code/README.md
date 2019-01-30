@@ -46,7 +46,7 @@ Uso .unique para visualizar cada registro único de los países.
 
 Hago limpieza de la columna Country, ya que hay algunos registros en minúsculas, y se eliminan/intercambian los caracteres extraños.
 
-### Paso 11 *
+### Paso 11
 
 Con value_counts se puede apreciar la cantidad de ataques que ha habido por país, con USA y Australia liderando claramente.
 
