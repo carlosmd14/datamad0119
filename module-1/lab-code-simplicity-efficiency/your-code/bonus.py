@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>data-labs/README.md at master · ironhack-labs/data-labs</title>
+  <title>data-labs/bonus.py at master · ironhack-labs/data-labs</title>
     <meta name="description" content="Contribute to ironhack-labs/data-labs development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/25032046?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ironhack-labs/data-labs" /><meta property="og:url" content="https://github.com/ironhack-labs/data-labs" /><meta property="og:description" content="Contribute to ironhack-labs/data-labs development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY1ODAxODMwOjg3Y2UzYzA2NThiMzI1MjJhZmEzOGUxZTVkNmM3N2JmZDM1Yzg3NDU1MGY1NjA1OGM2NTliM2I3Y2MxNGVhNjE=--b79cf97447b1cb581d9556fe67794e19db9e5897">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY1ODAxODMwOjZiNmJiOWNkZWIzYTFmMWEzMjVkMGFjZTgxNWQ4ZWI4MThhMzBhOTFlYzE4ZDI1MGJhYWFjNjMwMTdlZWE0YTY=--6ffe691e8049d3f4803c6058deb0a007590ad93d">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D026:2CD0F:15A69CD:2056C43:5C52EF64" data-pjax-transient>
+  <meta name="request-id" content="D026:2CD0F:15A6455:2056635:5C52EF5F" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D026:2CD0F:15A69CD:2056C43:5C52EF64" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="45972288" /><meta name="octolytics-actor-login" content="carlosmd14" /><meta name="octolytics-actor-hash" content="2784af065199a83c74d52142ba4bcb96647b1706d86b0c70aa1ee4ad2e9372e0" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D026:2CD0F:15A6455:2056635:5C52EF5F" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="45972288" /><meta name="octolytics-actor-login" content="carlosmd14" /><meta name="octolytics-actor-hash" content="2784af065199a83c74d52142ba4bcb96647b1706d86b0c70aa1ee4ad2e9372e0" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="carlosmd14">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MzExOGNiNmFjYTc3ZGYzOTg3MTMyZDYyMzJkYzdiYTI4N2U2OWUzNzEwNDkxMTg0NThlYmZkNmYwYWMyN2ZhYXx7InJlbW90ZV9hZGRyZXNzIjoiODMuNTYuNTkuMjUwIiwicmVxdWVzdF9pZCI6IkQwMjY6MkNEMEY6MTVBNjlDRDoyMDU2QzQzOjVDNTJFRjY0IiwidGltZXN0YW1wIjoxNTQ4OTM5MTE1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="OTRjZDc5Y2JhODUwODA4MjliN2ZiNzQyYzQ4MjhiMDZlNDcwMjE0M2Q4NzU0ZmExNDY4NTc5MGVmY2ZiZmI1OXx7InJlbW90ZV9hZGRyZXNzIjoiODMuNTYuNTkuMjUwIiwicmVxdWVzdF9pZCI6IkQwMjY6MkNEMEY6MTVBNjQ1NToyMDU2NjM1OjVDNTJFRjVGIiwidGltZXN0YW1wIjoxNTQ4OTM5MTA4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -87,7 +87,7 @@
   <meta name="octolytics-dimension-user_id" content="25032046" /><meta name="octolytics-dimension-user_login" content="ironhack-labs" /><meta name="octolytics-dimension-repository_id" content="147683540" /><meta name="octolytics-dimension-repository_nwo" content="ironhack-labs/data-labs" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="147683540" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ironhack-labs/data-labs" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/ironhack-labs/data-labs/blob/master/module-1/lab-code-simplicity-efficiency/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/ironhack-labs/data-labs/blob/master/module-1/lab-code-simplicity-efficiency/your-code/bonus.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -156,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=QkK7lmCcFdbT/0oPOU/I7ue/KN52kDQR84vohzi/Z701tFxmYQP9d41ZclhcXd5I1hp6kMERA4/aEsLAec9smw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=q7Bi9R0NpTQHgtN/vL3NNuXFxyabmCgIedQm3I58vbDcRoUFHJJNlVkk6yjZr9uQ1GCVaCwZH5ZQTQybzwy2lg=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -386,7 +386,7 @@
       </div>
     </summary>
     <details-dialog class="anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="RcklOg2mJ6QVeuRhJxbdEh6vxsD2W90dBvNli1mDhArHWSEQZLStCjAVEwLby0zz+hChbGGrChZFSdmEVh3TGQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="VFBB/OWp6kL/fK4zYVgcqA7fgDRbYZe5AaeoD4OKDpfWwEXWjLtg7NoTWVCdhY1J6mDnmMyRQLJCHRQAjBRZhA==" />
         <div class="Box-header">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -501,7 +501,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FwCnHBqRnLNYShQyniagtPo+uH85RCmR82CtswxcHVplzHLa1X6s7X+GYF+Xtv3WbkRmK9vHiMBaDTozUbVR6A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4PXXBhimo3JppLxTIoNAVjsH3xWRiwAuNBmYs+IaHpWSOQLA10mTLE5oyD4rEx00r30BQXMIoX+ddA8zv/NSJw==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -513,7 +513,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="K4cnvaudfBa3Tv3Jze3zKstMJkFI7DUfHi7VjMVJGLJZS/J7ZHJMSJCCiaTEfa5IXzb4FapvlE63Q0IMmKBUAA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cqBkoPZ5eYmxJIA01+HrXglSD8TAelq1N5NngTiF6iMAbLFmOZZJ15bo9FnecbY8nSjRkCL5++Se/vABZWymkQ==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -553,7 +553,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1q2yGeUQ8NGHl/2bpBsWaFcvNnq167A7CuAk3y7AgaWw6fIXa2KJDbr5/hVLsuVVk79ZB6x1xbCvxuEv/N836A==" />      <input type="hidden" name="repository_id" id="repository_id" value="147683540" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="S9hQ+KC6+VYbhMrjMzXD8gDE1OB/8Qyf5auHvSAoB+MtnBD2LsiAiibqyW3cnDDPxFS7nWZveRRAjUJN8jexrg==" />      <input type="hidden" name="repository_id" id="repository_id" value="147683540" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -627,7 +627,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/ironhack-labs/data-labs/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="A0BQUlbdjeCiw5bjLEMMMvPX3yCjOVZ3xQ9bXWb+3hlLi2eKbXNrhwtuU9gVwam+JFt+e+cXw2YaRfquHK9ngw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/ironhack-labs/data-labs/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qM6M5VV9Icur7vHu/+5VQMnLjo7s/3gZAUsowrQibmrgBbs9btPHrAJDNNXGbPDMHkcv1ajR7QjeAYkxznPX8A==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -642,7 +642,7 @@
           2
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/ironhack-labs/data-labs/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="S4pJcPNi929PK3ndhiELuKBE06B+H9/wCjaD5O1OXbAJbc9XG8nLPnOywWBNwRw3D+ahREI8fio6D3xuFcdAEA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/ironhack-labs/data-labs/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="n0F8SNc7uJ23eyrh/dNHtBI7kpVCSgXLR9Ktl/6CzNLdpvpvP5CEzIviklw2M1A7vZngcX5ppBF361IdBgvRcg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -661,7 +661,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/ironhack-labs/data-labs/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+1NNM10m7rBEWFxv5xD86sgeXGUWivOMOdphxoP4SA57cjH2OkOmgLgDlxZN6vST/UuvR9oy+inKPdw5oUrPKA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/ironhack-labs/data-labs/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UHRnRRXLB82QirTyzTi9xfsP2zSXyfPDiRoGcjKFnMbQVRuAcq5P/WzRf4tnwrW8zlooFltx+mZ6/buNEDcb4A==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -748,16 +748,16 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ironhack-labs/data-labs/blob/a3bb8cebd5bd269c339092d447e2d95cd5773c47/module-1/lab-code-simplicity-efficiency/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ironhack-labs/data-labs/blob/a3bb8cebd5bd269c339092d447e2d95cd5773c47/module-1/lab-code-simplicity-efficiency/your-code/bonus.py">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:f3b842e3ecc2c95eb5eeb3126117c02e -->
+    <!-- blob contrib key: blob_contributors:v21:923da7d991e1b59381265e18122a4588 -->
 
     
 
     <div class="file-navigation">
       
 <div class="select-menu branch-select-menu js-menu-container js-select-menu float-left js-load-contents"
-  data-contents-url="/ironhack-labs/data-labs/ref-list/master/module-1/lab-code-simplicity-efficiency/README.md?source_action=show&amp;source_controller=blob">
+  data-contents-url="/ironhack-labs/data-labs/ref-list/master/module-1/lab-code-simplicity-efficiency/your-code/bonus.py?source_action=show&amp;source_controller=blob">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
     
     type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
@@ -787,21 +787,59 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/ironhack-labs/data-labs"><span>data-labs</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/ironhack-labs/data-labs/tree/master/module-1"><span>module-1</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/ironhack-labs/data-labs/tree/master/module-1/lab-code-simplicity-efficiency"><span>lab-code-simplicity-efficiency</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/ironhack-labs/data-labs"><span>data-labs</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/ironhack-labs/data-labs/tree/master/module-1"><span>module-1</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/ironhack-labs/data-labs/tree/master/module-1/lab-code-simplicity-efficiency"><span>lab-code-simplicity-efficiency</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/ironhack-labs/data-labs/tree/master/module-1/lab-code-simplicity-efficiency/your-code"><span>your-code</span></a></span><span class="separator">/</span><strong class="final-path">bonus.py</strong>
       </div>
     </div>
 
 
-    <include-fragment src="/ironhack-labs/data-labs/contributors/master/module-1/lab-code-simplicity-efficiency/README.md" class="commit-tease commit-loader">
+    
+  <div class="commit-tease">
+      <span class="float-right">
+        <a class="commit-tease-sha" href="/ironhack-labs/data-labs/commit/cd08374491cdaef9355cc37681ba8753b6af74f1" data-pjax>
+          cd08374
+        </a>
+        <relative-time datetime="2019-01-25T23:22:48Z">Jan 26, 2019</relative-time>
+      </span>
       <div>
-        Fetching contributors&hellip;
+        <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1659798" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/eye8"><img class="avatar" src="https://avatars0.githubusercontent.com/u/1659798?s=40&amp;v=4" width="20" height="20" alt="@eye8" /></a>
+        <a class="user-mention" rel="contributor" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1659798" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/eye8">eye8</a>
+          <a data-pjax="true" title="finished code simplicity lab" class="message" href="/ironhack-labs/data-labs/commit/cd08374491cdaef9355cc37681ba8753b6af74f1">finished code simplicity lab</a>
       </div>
 
-      <div class="commit-tease-contributors">
-          <img alt="" class="loader-loading float-left" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="commit-tease-contributors">
+      
+<details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+  <summary
+      class="btn-link"
+      aria-haspopup="dialog"
+      
+      
+      >
+    
+    <span><strong>1</strong> contributor</span>
+  </summary>
+  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <h3 class="Box-title">Users who have contributed to this file</h3>
+    </div>
+    
+        <ul class="list-style-none overflow-auto">
+            <li class="Box-row">
+              <a class="link-gray-dark no-underline" href="/eye8">
+                <img class="avatar mr-2" alt="" src="https://avatars0.githubusercontent.com/u/1659798?s=40&amp;v=4" width="20" height="20" />
+                eye8
+</a>            </li>
+        </ul>
+
+  </details-dialog>
+</details>
+      
+    </div>
+  </div>
+
 
 
 
@@ -813,19 +851,19 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/ironhack-labs/data-labs/raw/master/module-1/lab-code-simplicity-efficiency/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/ironhack-labs/data-labs/blame/master/module-1/lab-code-simplicity-efficiency/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/ironhack-labs/data-labs/commits/master/module-1/lab-code-simplicity-efficiency/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/ironhack-labs/data-labs/raw/master/module-1/lab-code-simplicity-efficiency/your-code/bonus.py">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/ironhack-labs/data-labs/blame/master/module-1/lab-code-simplicity-efficiency/your-code/bonus.py">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/ironhack-labs/data-labs/commits/master/module-1/lab-code-simplicity-efficiency/your-code/bonus.py">History</a>
     </div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ironhack-labs/data-labs/edit/master/module-1/lab-code-simplicity-efficiency/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="k2QY70NcnDEdS4j6lueOvxnOxLIetXABo1zdwMjxqabF4E7LybS0huppcPttee13fTKLivPdiBu73AFKPeKj2Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ironhack-labs/data-labs/edit/master/module-1/lab-code-simplicity-efficiency/your-code/bonus.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="giL0/XMKnF+IZbpAqJ7Xc4cBAabFCthqNujvAFtOPj01xD7mkYThwOvSKeTZu1tlSRFRrCQkyBOxjkVH/qTw9g==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ironhack-labs/data-labs/delete/master/module-1/lab-code-simplicity-efficiency/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="QpnLiEvkd9G4n4BI0AUiqKvdsqdaxap6/gNWFMFucc49N97DdjLaPyqp9miFc5gPRdgx6MH937gP2khYlzaNCQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ironhack-labs/data-labs/delete/master/module-1/lab-code-simplicity-efficiency/your-code/bonus.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dMzO5De8BYxvKRolkCjzT/jSHxrzoX85QbvmSiHr/jbSEJLRT56TjM1xO1N6CGHPQVte5w7OK0PpnfPfFMS0/Q==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -833,74 +871,265 @@
 </form>  </div>
 
   <div class="file-info">
-      68 lines (39 sloc)
+      57 lines (46 sloc)
       <span class="file-info-divider"></span>
-    3.94 KB
+    2.01 KB
   </div>
 </div>
 
       
-  <div id="readme" class="readme blob instapaper_body js-code-block-container">
-    <article class="markdown-body entry-content" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/52d2ff8778b60261533a7dba8dd989c6893a519b/68747470733a2f2f692e696d6775722e636f6d2f315167724e4e772e706e67"><img src="https://camo.githubusercontent.com/52d2ff8778b60261533a7dba8dd989c6893a519b/68747470733a2f2f692e696d6775722e636f6d2f315167724e4e772e706e67" alt="Ironhack logo" data-canonical-src="https://i.imgur.com/1QgrNNw.png" style="max-width:100%;"></a></p>
-<h1><a id="user-content-lab--code-simplicity-and-efficiency" class="anchor" aria-hidden="true" href="#lab--code-simplicity-and-efficiency"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Lab | Code Simplicity and Efficiency</h1>
-<h2><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Introduction</h2>
-<p>In the lesson we have learn a lot of principles and techniques about how to make codes simple and efficient. But it takes a lot of effort to achieve true code simplicity and efficiency. Below are several tips useful for you:</p>
-<ul>
-<li>
-<p>Read a lot of source code from community websites such as GitHub and Stack Overview. Learn how top programmers write simple and efficient codes.</p>
-</li>
-<li>
-<p>Iterate your own code. When you are done writing a piece of code, you should always try to improve it even if it's functioning perfectly. Ask yourself whether you can make the code more clean and readable? Whether you can make it more efficient?</p>
-</li>
-<li>
-<p>To make your code <em>perfect</em> is impossible becasue it will prevent you from delivering the project on time. There is a balance point of how much time you spend in improving the code versus delivering the project. As your programming skills improve, you will spend less and less time on iterating your code.</p>
-</li>
-<li>
-<p>Deepen your knowledge of programming algorithms and keep practicing. A great programmer must possess exellent mathematical and logical thinking abilities which are developed gradually with intensive practice. Use websites such as <a href="https://leetcode.com/" rel="nofollow">LeetCode</a> and <a href="https://www.codewars.com/" rel="nofollow">CodeWars</a> to challenge yourself and improve your solution by comparing with other programmers' solutions.</p>
-</li>
-</ul>
-<p>In this exercise, you will undertake several challenges to practice cleaning code and improving code efficiency. Remeber the tips we gave you above. In certain challenges you may want to google what the more efficient ways are to refactor the code.</p>
-<h2><a id="user-content-getting-started" class="anchor" aria-hidden="true" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting Started</h2>
-<p>Complete the challenges in order in the <code>your-code</code> directory.</p>
-<h3><a id="user-content-challenge-1-3" class="anchor" aria-hidden="true" href="#challenge-1-3"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Challenge 1-3</h3>
-<p>In these three challenges you will improve some poorly written Python codes. Reflect on what you have learned in the lesson about code simplicity and efficiency then revamp the codes. <strong>Please use comments between the Python lines to explain why you refactor the code that way</strong>.</p>
-<p>Despite the poor practice in those Python codes, they are fully functional. To run the Python code in command line, navigate to the <code>your-code</code> directory containing the Python files, then execute (note we are using Python 3 interpreter instead of 2):</p>
-<div class="highlight highlight-source-python"><pre>python3
-<span class="pl-k">&gt;&gt;</span><span class="pl-k">&gt;</span> <span class="pl-c1">exec</span>(<span class="pl-c1">open</span>(<span class="pl-s"><span class="pl-pds">"</span>challenge-1.py<span class="pl-pds">"</span></span>).read())</pre></div>
-<p><strong>After refactoring the code you should test your solution to make sure it is still working as expected.</strong></p>
-<h3><a id="user-content-bonus-challenge" class="anchor" aria-hidden="true" href="#bonus-challenge"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Bonus Challenge</h3>
-<p>In this challenge, you will focus on improving the code efficiency only. The code is a Python class that solves the following puzzle programmatically:</p>
-<blockquote>
-<p><strong>You are climbing a stair case. It takes N steps to reach to the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?</strong></p>
-</blockquote>
-<p>For instance, if the stair has 4 steps, there are 5 ways to climb to the top:</p>
-<ol>
-<li>1, 1, 1, 1</li>
-<li>1, 2, 1</li>
-<li>1, 1, 2</li>
-<li>2, 1, 1</li>
-<li>2, 2</li>
-</ol>
-<p>If you execute <code>bonus.py</code> in command line you'll find it can give the correct answer. Read the code carefully and make sure you understand how it calculates the correct answer. However, the solution is extremely inefficient (e.g. try input <code>10000</code> and you'll be stuck forever) because it uses a <em>brute force</em> solution that performs massive redundant computations. Your goal in this challenge is to make the code more efficient.</p>
-<p>Your solution is considered <em>ideal</em> if it performs less than 10,000 calculations for a stair with 10,000 steps. But any minor improvement of the algorithm is congratulatable because Rome can't be built in a day.</p>
-<p><g-emoji class="g-emoji" alias="information_source" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png">ℹ️</g-emoji> You are encouraged to google the Internet to solve this challenge.</p>
-<h2><a id="user-content-deliverables" class="anchor" aria-hidden="true" href="#deliverables"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Deliverables</h2>
-<ul>
-<li>
-<p><code>challenge-1.py</code>, <code>challenge-2.py</code>, <code>challenge-3.py</code>, and optionally <code>bonus.py</code> that contain your refactored code.</p>
-</li>
-<li>
-<p>Make sure you explain your solutions in the deliverables.</p>
-</li>
-</ul>
-<h2><a id="user-content-submission" class="anchor" aria-hidden="true" href="#submission"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submission</h2>
-<ul>
-<li>Add the deliverables to git</li>
-<li>Commit your code</li>
-<li>Push to your fork</li>
-<li>Create a pull request to the class repo</li>
-</ul>
-</article>
+
+  <div itemprop="text" class="blob-wrapper data type-python ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-s">You are climbing a stair case. It takes n steps to reach to the top.</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-s">Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-s">For example, if the stair has 4 steps, there are 5 ways to climb to the top:</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-s">1) 1, 1, 1, 1</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-s">2) 1, 2, 1</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-s">3) 1, 1, 2</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-s">4) 2, 1, 1</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-s">5) 2, 2</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-s">The following class calculates the total ways to climb a stair with the specified number of steps.</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-s">It also counts the number of calculations performed which indicates the efficiency of the code.</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-s">Try if you can improve the performance of the code.</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">ClimbStairs</span>:</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    Class constructor</span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    total_steps: how many steps in total in the stair</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    <span class="pl-pds">&quot;&quot;&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-c1">__init__</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>, <span class="pl-smi">total_steps</span><span class="pl-k">=</span><span class="pl-c1">10</span>): </td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">self</span>.total_steps <span class="pl-k">=</span> total_steps</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">self</span>.calculation_count <span class="pl-k">=</span> <span class="pl-c1">0</span></td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    This function calculates how many solutions are there to reach the top when I am currently at the ith step</span></td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    i - the step I am currently at</span></td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    <span class="pl-pds">&quot;&quot;&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-en">calc_solutions</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>, <span class="pl-smi">i</span>):</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> If the current step is already larger than total steps, there&#39;s 0 solution</span></td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> i <span class="pl-k">&gt;</span> <span class="pl-c1">self</span>.total_steps:</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">return</span> <span class="pl-c1">0</span></td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> If the current step equals to the total steps, there is only one solution because I&#39;ve reached the top</span></td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> i <span class="pl-k">==</span> <span class="pl-c1">self</span>.total_steps:</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">return</span> <span class="pl-c1">1</span></td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> If I am still in the middle of the stair, continue calculating</span></td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">self</span>.calculation_count <span class="pl-k">+=</span> <span class="pl-c1">1</span></td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> Call the current function recursively. </span></td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> The number of solutions at the ith step equals to the number of solutions at the (i+1)th step </span></td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span> plus the number of solutions at the (i+2)th step</span></td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span>(<span class="pl-c1">self</span>.calc_solutions(i<span class="pl-k">+</span><span class="pl-c1">1</span>) <span class="pl-k">+</span> <span class="pl-c1">self</span>.calc_solutions(i<span class="pl-k">+</span><span class="pl-c1">2</span>))</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-en">get_calculation_count</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>):</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">self</span>.calculation_count</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-en">solve</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>):</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">self</span>.calc_solutions(<span class="pl-c1">0</span>)</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">total_steps <span class="pl-k">=</span> <span class="pl-c1">input</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>How many steps in the stair?<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">new_challenge <span class="pl-k">=</span> ClimbStairs(<span class="pl-c1">int</span>(total_steps))</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">print</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>Ways to climb to top: <span class="pl-pds">&#39;</span></span> <span class="pl-k">+</span> <span class="pl-c1">str</span>(new_challenge.solve()))</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">print</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>Total calculations performed: <span class="pl-pds">&#39;</span></span> <span class="pl-k">+</span> <span class="pl-c1">str</span>(new_challenge.get_calculation_count()))</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ironhack-labs/data-labs/blame/a3bb8cebd5bd269c339092d447e2d95cd5773c47/module-1/lab-code-simplicity-efficiency/your-code/bonus.py">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/ironhack-labs/data-labs/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -931,7 +1160,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.33193s from unicorn-68f98c8669-kq42p">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.36045s from unicorn-68f98c8669-87v6v">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
