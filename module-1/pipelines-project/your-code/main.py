@@ -30,6 +30,22 @@ def wrangle(raw):
 def analyze(data):
     cons_month = data.groupby('Month', as_index=False).agg({'Mid Temp':'mean','Rainfall':'mean','Consumption':'mean'}).sort_values(by=('Consumption'), ascending=False)
     cons_day = data.groupby('Day Of Week', as_index=False).agg({'Mid Temp':'mean','Rainfall':'mean','Consumption':'mean'}).sort_values(by=('Consumption'), ascending=False)
+    return data, cons_month, cons_day
+    
+def vis_save(data, cons, xvalue='x-axis', yvalue='y-axis'):
+    title = yvalue + ' by ' + xvalue
+    barchart = sns.barplot(data=cons, x=xvalue, y=yvalue)
+    plt.title(title + "\n", fontsize=16)
+    fig = barchart.get_figure()
+    fig.savefig(title + '.png')
+    plt.close()
+    
 
+    
+data = acquire()
+filtered = wrangle(data)
+results, cons_month, cons_day = analyze(filtered)
 
+vis_save(results, cons_month, 'Month', 'Consumption')
 
+vis_save(results, cons_day, 'Day Of Week', 'Consumption')
