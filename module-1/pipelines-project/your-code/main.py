@@ -42,10 +42,11 @@ def vis_save(data, cons, xvalue='x-axis', yvalue='y-axis'):
     plt.close()
 
     
-data = acquire()
-filtered = wrangle(data)
-results, cons_month, cons_day = analyze(filtered)
+if __name__ == "__main__":
+    data = acquire()
+    filtered = wrangle(data)
+    results, cons_month, cons_day = analyze(filtered)
 
-vis_save(results, cons_month, 'Month', 'Consumption')
+    vis_save(results, cons_month, 'Month', 'Consumption')
 
-vis_save(results, cons_day, 'Day Of Week', 'Consumption')
+    vis_save(results, cons_day, 'Day Of Week', 'Consumption')
