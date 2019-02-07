@@ -37,9 +37,9 @@ def vis_save(data, cons, xvalue='x-axis', yvalue='y-axis'):
     barchart = sns.barplot(data=cons, x=xvalue, y=yvalue)
     plt.title(title + "\n", fontsize=16)
     fig = barchart.get_figure()
-    fig.savefig(title + '.png')
+    fig.savefig('output/' + title + '.png')
+    print("Se ha guardado el gráfico \"" + title + ".png\" en el directorio \"output\"")
     plt.close()
-    
 
     
 data = acquire()
