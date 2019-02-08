@@ -14,10 +14,10 @@ def acquire():
 def wrangle(raw):
     data = raw[:365]
     data = data.rename(columns={'Data':'Day', 'Temperatura Maxima (C)': 'Max Temp', 'Temperatura Minima (C)': 'Min Temp', 'Temperatura Media (C)':'Mid Temp', 'Precipitacao (mm)':'Rainfall', 'Final de Semana':'Weekend', 'Consumo de cerveja (litros)':'Consumption'})
-    data['Day Of Week'] = pd.to_datetime(data['Day']).dt.weekday_name
+    data['Day_Of_Week'] = pd.to_datetime(data['Day']).dt.weekday_name
     data['Day'] = data['Day'].apply(lambda s: s.split('-'))
     data[['Year','Month','Day']] = pd.DataFrame(data.Day.values.tolist(), index=data.index)
-    column_order = ['Year','Month','Day','Day Of Week','Min Temp','Mid Temp','Max Temp','Rainfall','Weekend','Consumption']
+    column_order = ['Year','Month','Day','Day_Of_Week','Min Temp','Mid Temp','Max Temp','Rainfall','Weekend','Consumption']
     data = data[column_order]
     data = data.drop(['Year'], axis=1)
     data['Month'] = data['Month'].astype('int')
@@ -29,11 +29,11 @@ def wrangle(raw):
 
 def analyze(data):
     cons_month = data.groupby('Month', as_index=False).agg({'Mid Temp':'mean','Rainfall':'mean','Consumption':'mean'}).sort_values(by=('Consumption'), ascending=False)
-    cons_day = data.groupby('Day Of Week', as_index=False).agg({'Mid Temp':'mean','Rainfall':'mean','Consumption':'mean'}).sort_values(by=('Consumption'), ascending=False)
+    cons_day = data.groupby('Day_Of_Week', as_index=False).agg({'Mid Temp':'mean','Rainfall':'mean','Consumption':'mean'}).sort_values(by=('Consumption'), ascending=False)
     return data, cons_month, cons_day
     
 def vis_save(data, cons, xvalue='x-axis', yvalue='y-axis'):
-    title = yvalue + ' by ' + xvalue
+    title = yvalue + '_by_' + xvalue
     barchart = sns.barplot(data=cons, x=xvalue, y=yvalue)
     plt.title(title + "\n", fontsize=16)
     fig = barchart.get_figure()
@@ -49,4 +49,4 @@ if __name__ == "__main__":
 
     vis_save(results, cons_month, 'Month', 'Consumption')
 
-    vis_save(results, cons_day, 'Day Of Week', 'Consumption')
+    vis_save(results, cons_day, 'Day_Of_Week', 'Consumption')

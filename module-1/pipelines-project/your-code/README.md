@@ -67,4 +67,4 @@ Este comando hará que se guarden en la carpeta Output los gráficos los días 1
 
 ###### Comando mail:
 
-$ echo "Se anexan los gráficos actualizados" | mail -s "Gráficos Actualizados" ejemplo@example.com -A output/*
+$ echo "Se anexan los gráficos actualizados" | mail -s "Gráficos Actualizados" ejemplo@example.com -A Consumption_by_Day_Of_Week.png -A Consumption_by_Month.png
