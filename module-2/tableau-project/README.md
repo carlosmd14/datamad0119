@@ -99,3 +99,4 @@ This will be useful as an overall gauge of whether you met the project goals, bu
   * Walk the audience through your process of designing and constructing your visualizations and your Tableau Story including what techniques you employed, what avenues you decided to pursue and why, and what lessons you learned.
 * One important mistake you made:
   * Did you made a mistake in the construction of your visualizations? Did you aggregate a field incorrectly?
+  
