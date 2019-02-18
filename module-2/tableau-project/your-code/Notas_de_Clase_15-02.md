@@ -91,4 +91,17 @@
         - The surroundings must have a good ratio of big companies vs startups
         - Ensure you have in your surroundings companies that cover the interests of your team
         - Avoid old companies, prefer recently created ones
+
+
+Category code = web, software, games_video, mobile, ecommerce, analytics, enterprise, finance.
+Number of employees >= 50
+Founded year >= 2010
+
+
+
+{ "$and": [ { "offices.latitude": {"$exists": True} },{ "offices.longitude": {"$exists": True} }, {"founded_year" : {"$gte": 2003} }, {'deadpooled_year': {'$type': 10} }, {'number_of_employees' : {"$gte": 50} } , { '$or': [ {'category_code': 'web'}, {'category_code':'software'}, {'category_code':'mobile'},{'category_code': 'analytics'}, {'category_code': 'games_video'}, {'category_code':'ecommerce'}, {'category_code':'enterprise'},{'category_code':'finance'} ] } ] }
+
+
+{ "$and": [ {"founded_year" : {"$gte": 2004} }, {'deadpooled_year': {'$eq': null} }, {'number_of_employees' : {"$gte": 50} } , {'category_code': 'games_video'} ] }
+
         
