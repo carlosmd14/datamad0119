@@ -1,0 +1,331 @@
+{"category_code":"mobile","founded_year":2005,"name":"Jajah","number_of_employees":110,"position":{"type":"Point","coordinates":[-122.0899512,37.4233896]}}
+{"category_code":"games_video","founded_year":2007,"name":"Livestream","number_of_employees":120,"position":{"type":"Point","coordinates":[-73.995625,40.726155]}}
+{"category_code":"games_video","founded_year":2007,"name":"Ustream","number_of_employees":250,"position":{"type":"Point","coordinates":[-122.07948,37.392936]}}
+{"category_code":"enterprise","founded_year":2004,"name":"KickApps","number_of_employees":72,"position":{"type":"Point","coordinates":[-73.9843328,40.7516611]}}
+{"category_code":"games_video","founded_year":2005,"name":"RockYou","number_of_employees":106,"position":{"type":"Point","coordinates":[-122.206893,37.484619]}}
+{"category_code":"web","founded_year":2005,"name":"Meebo","number_of_employees":200,"position":{"type":"Point","coordinates":[-122.079017,37.393679]}}
+{"category_code":"web","founded_year":2006,"name":"Eventbrite","number_of_employees":200,"position":{"type":"Point","coordinates":[-122.39071,37.779507]}}
+{"category_code":"web","founded_year":2005,"name":"Zvents","number_of_employees":55,"position":{"type":"Point","coordinates":[-122.301534,37.553121]}}
+{"category_code":"web","founded_year":2004,"name":"Eventful","number_of_employees":60,"position":{"type":"Point","coordinates":[-117.206292,32.872081]}}
+{"category_code":"web","founded_year":2005,"name":"oDesk","number_of_employees":120,"position":{"type":"Point","coordinates":[-122.178557,37.479952]}}
+{"category_code":"web","founded_year":2006,"name":"Flixster","number_of_employees":75,"position":{"type":"Point","coordinates":[-122.406676,37.766909]}}
+{"category_code":"software","founded_year":2006,"name":"spigit","number_of_employees":120,"position":{"type":"Point","coordinates":[-121.8731805,37.6637279]}}
+{"category_code":"software","founded_year":2005,"name":"Bazaarvoice","number_of_employees":600,"position":{"type":"Point","coordinates":[-97.717667,30.407545]}}
+{"category_code":"games_video","founded_year":2003,"name":"hi5","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.400558,37.788668]}}
+{"category_code":"games_video","founded_year":2006,"name":"Curse","number_of_employees":58,"position":{"type":"Point","coordinates":[-122.399972,37.787092]}}
+{"category_code":"mobile","founded_year":2006,"name":"Rebtel","number_of_employees":75,"position":{"type":"Point","coordinates":[18.1582777,59.3167843]}}
+{"category_code":"enterprise","founded_year":2004,"name":"Brightcove","number_of_employees":220,"position":{"type":"Point","coordinates":[-71.086596,42.362993]}}
+{"category_code":"mobile","founded_year":2006,"name":"Nimbuzz","number_of_employees":140,"position":{"type":"Point","coordinates":[4.5464658,51.9122575]}}
+{"category_code":"web","founded_year":2004,"name":"IMVU","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.0727749,37.3927975]}}
+{"category_code":"web","founded_year":2005,"name":"Webkinz","number_of_employees":8657,"position":{"type":"Point","coordinates":[-79.549577,43.76969]}}
+{"category_code":"enterprise","founded_year":2007,"name":"Echo","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.1879633,38.0729365]}}
+{"category_code":"software","founded_year":2007,"name":"Dropbox","number_of_employees":350,"position":{"type":"Point","coordinates":[-122.4084994,37.7909427]}}
+{"category_code":"web","founded_year":2006,"name":"Weebly","number_of_employees":70,"position":{"type":"Point","coordinates":[-122.400729,37.795555]}}
+{"category_code":"web","founded_year":2007,"name":"Yola","number_of_employees":70,"position":{"type":"Point","coordinates":[-122.3954751,37.7911148]}}
+{"category_code":"web","founded_year":2004,"name":"BitTorrent","number_of_employees":80,"position":{"type":"Point","coordinates":[-122.394668,37.790998]}}
+{"category_code":"enterprise","founded_year":2008,"name":"Cloudant","number_of_employees":70,"position":{"type":"Point","coordinates":[-71.05781,42.35892]}}
+{"category_code":"enterprise","founded_year":2008,"name":"KIT digital","number_of_employees":200,"position":{"type":"Point","coordinates":[-73.971655,40.751816]}}
+{"category_code":"enterprise","founded_year":2004,"name":"NewsGator","number_of_employees":90,"position":{"type":"Point","coordinates":[-104.988123,39.755092]}}
+{"category_code":"games_video","founded_year":2006,"name":"OMGPOP","number_of_employees":50,"position":{"type":"Point","coordinates":[-74.001704,40.723384]}}
+{"category_code":"games_video","founded_year":2008,"name":"Crunchyroll","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.393229,37.781265]}}
+{"category_code":"analytics","founded_year":2007,"name":"Ooyala","number_of_employees":300,"position":{"type":"Point","coordinates":[-122.084171,37.386665]}}
+{"category_code":"games_video","founded_year":2007,"name":"hulu","number_of_employees":153,"position":{"type":"Point","coordinates":[-118.456806,34.031276]}}
+{"category_code":"games_video","founded_year":2005,"name":"mig33","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.343679,37.580304]}}
+{"category_code":"enterprise","founded_year":2003,"name":"Zimbra","number_of_employees":200,"position":{"type":"Point","coordinates":[-122.285714,37.557637]}}
+{"category_code":"mobile","founded_year":2006,"name":"Fon","number_of_employees":100,"position":{"type":"Point","coordinates":[-3.632687,40.530724]}}
+{"category_code":"web","founded_year":2007,"name":"Polyvore","number_of_employees":73,"position":{"type":"Point","coordinates":[-122.083487,37.386175]}}
+{"category_code":"ecommerce","founded_year":2005,"name":"Blurb","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.40414,37.792968]}}
+{"category_code":"software","founded_year":2007,"name":"uTest","number_of_employees":120,"position":{"type":"Point","coordinates":[-71.52679,42.288291]}}
+{"category_code":"web","founded_year":2005,"name":"Automattic","number_of_employees":200,"position":{"type":"Point","coordinates":[-122.421344,37.744274]}}
+{"category_code":"web","founded_year":2005,"name":"EchoSign","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.160671,37.445326]}}
+{"category_code":"mobile","founded_year":2003,"name":"Firetide","number_of_employees":100,"position":{"type":"Point","coordinates":[-121.932962,37.285133]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Gigya","number_of_employees":230,"position":{"type":"Point","coordinates":[-122.158804,37.43938]}}
+{"category_code":"software","founded_year":2004,"name":"Baynote","number_of_employees":80,"position":{"type":"Point","coordinates":[-122.006539,37.332271]}}
+{"category_code":"software","founded_year":2006,"name":"Zmags","number_of_employees":95,"position":{"type":"Point","coordinates":[12.571492,55.6839208]}}
+{"category_code":"web","founded_year":2004,"name":"Springbox","number_of_employees":65,"position":{"type":"Point","coordinates":[-97.742682,30.269452]}}
+{"category_code":"web","founded_year":2005,"name":"Vobile","number_of_employees":120,"position":{"type":"Point","coordinates":[-121.97895,37.399208]}}
+{"category_code":"software","founded_year":2003,"name":"Splunk","number_of_employees":500,"position":{"type":"Point","coordinates":[-122.390945,37.78274]}}
+{"category_code":"games_video","founded_year":2003,"name":"Kewego","number_of_employees":65,"position":{"type":"Point","coordinates":[2.213749,46.227638]}}
+{"category_code":"software","founded_year":2006,"name":"HubSpot","number_of_employees":650,"position":{"type":"Point","coordinates":[-71.118487,42.375392]}}
+{"category_code":"web","founded_year":2007,"name":"Goodreads","number_of_employees":70,"position":{"type":"Point","coordinates":[-118.495981,34.01052]}}
+{"category_code":"web","founded_year":2007,"name":"Shoeboxed","number_of_employees":70,"position":{"type":"Point","coordinates":[-78.902115,35.996157]}}
+{"category_code":"mobile","founded_year":2006,"name":"Qik","number_of_employees":60,"position":{"type":"Point","coordinates":[-122.230116,37.486368]}}
+{"category_code":"enterprise","founded_year":2007,"name":"Acquia","number_of_employees":400,"position":{"type":"Point","coordinates":[-71.137784,42.524527]}}
+{"category_code":"ecommerce","founded_year":2005,"name":"Etsy","number_of_employees":300,"position":{"type":"Point","coordinates":[-73.983268,40.694731]}}
+{"category_code":"software","founded_year":2005,"name":"Bunchball","number_of_employees":60,"position":{"type":"Point","coordinates":[-121.9479223,37.3208403]}}
+{"category_code":"web","founded_year":2004,"name":"Woot","number_of_employees":200,"position":{"type":"Point","coordinates":[-96.848836,33.020526]}}
+{"category_code":"web","founded_year":2006,"name":"AF83","number_of_employees":55,"position":{"type":"Point","coordinates":[2.35022,48.862063]}}
+{"category_code":"games_video","founded_year":2007,"name":"Zynga","number_of_employees":115,"position":{"type":"Point","coordinates":[-122.404234,37.765158]}}
+{"category_code":"enterprise","founded_year":2007,"name":"Heroku","number_of_employees":80,"position":{"type":"Point","coordinates":[-122.419204,37.775196]}}
+{"category_code":"web","founded_year":2003,"name":"Citrix Online","number_of_employees":700,"position":{"type":"Point","coordinates":[-119.855405,34.431454]}}
+{"category_code":"web","founded_year":2003,"name":"Survey Analytics","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.349863,47.650674]}}
+{"category_code":"web","founded_year":2006,"name":"Mixbook","number_of_employees":90,"position":{"type":"Point","coordinates":[-121.918319,37.383844]}}
+{"category_code":"games_video","founded_year":2003,"name":"GameDuell","number_of_employees":200,"position":{"type":"Point","coordinates":[13.3941489,52.5131826]}}
+{"category_code":"web","founded_year":2006,"name":"amiando","number_of_employees":76,"position":{"type":"Point","coordinates":[11.556452,48.124827]}}
+{"category_code":"web","founded_year":2003,"name":"TheLadders","number_of_employees":110,"position":{"type":"Point","coordinates":[-74.006196,40.725883]}}
+{"category_code":"web","founded_year":2007,"name":"PerfSpot","number_of_employees":50,"position":{"type":"Point","coordinates":[-111.9261618,33.5060338]}}
+{"category_code":"games_video","founded_year":2011,"name":"Social Gaming Network","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.161523,37.446823]}}
+{"category_code":"web","founded_year":2006,"name":"Grooveshark","number_of_employees":113,"position":{"type":"Point","coordinates":[-82.3230981,29.6502461]}}
+{"category_code":"software","founded_year":2004,"name":"Evernote","number_of_employees":280,"position":{"type":"Point","coordinates":[-121.987661,37.386774]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Covario","number_of_employees":100,"position":{"type":"Point","coordinates":[-117.114827,32.912063]}}
+{"category_code":"web","founded_year":2004,"name":"SugarSync","number_of_employees":60,"position":{"type":"Point","coordinates":[-122.307887,37.54763]}}
+{"category_code":"web","founded_year":2006,"name":"OLX","number_of_employees":85,"position":{"type":"Point","coordinates":[-73.7258199,40.8587524]}}
+{"category_code":"web","founded_year":2003,"name":"FreshBooks","number_of_employees":110,"position":{"type":"Point","coordinates":[-79.452609,43.70391]}}
+{"category_code":"web","founded_year":2004,"name":"AtomicOnline","number_of_employees":110,"position":{"type":"Point","coordinates":[-118.368871,33.988735]}}
+{"category_code":"software","founded_year":2005,"name":"Phreesia","number_of_employees":70,"position":{"type":"Point","coordinates":[-73.985878,40.739794]}}
+{"category_code":"software","founded_year":2005,"name":"Ifbyphone","number_of_employees":90,"position":{"type":"Point","coordinates":[-87.750643,42.040851]}}
+{"category_code":"software","founded_year":2004,"name":"Kareo","number_of_employees":250,"position":{"type":"Point","coordinates":[-117.8587,33.676444]}}
+{"category_code":"web","founded_year":2005,"name":"VZnet Netzwerke","number_of_employees":300,"position":{"type":"Point","coordinates":[13.4161514,52.5290751]}}
+{"category_code":"web","founded_year":2006,"name":"Rutube","number_of_employees":80,"position":{"type":"Point","coordinates":[36.42735,52.78945]}}
+{"category_code":"web","founded_year":2006,"name":"Footnote","number_of_employees":66,"position":{"type":"Point","coordinates":[-111.7276347,40.3310529]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Vovici","number_of_employees":100,"position":{"type":"Point","coordinates":[-77.434128,38.983393]}}
+{"category_code":"mobile","founded_year":2005,"name":"Mobenga","number_of_employees":70,"position":{"type":"Point","coordinates":[13.813313,56.154292]}}
+{"category_code":"web","founded_year":2007,"name":"Clickpass","number_of_employees":90,"position":{"type":"Point","coordinates":[-122.419204,37.775196]}}
+{"category_code":"enterprise","founded_year":2005,"name":"Workday","number_of_employees":900,"position":{"type":"Point","coordinates":[-121.921532,37.694202]}}
+{"category_code":"software","founded_year":2005,"name":"Clarizen","number_of_employees":110,"position":{"type":"Point","coordinates":[-122.328401,37.536044]}}
+{"category_code":"web","founded_year":2007,"name":"Next New Networks","number_of_employees":121,"position":{"type":"Point","coordinates":[-73.983626,40.743808]}}
+{"category_code":"software","founded_year":2007,"name":"Zuora","number_of_employees":250,"position":{"type":"Point","coordinates":[-122.2709868,37.5596277]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Wrike","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.0879281,37.3973787]}}
+{"category_code":"software","founded_year":2004,"name":"Athena Archiver","number_of_employees":50,"position":{"type":"Point","coordinates":[-73.991562,40.747003]}}
+{"category_code":"web","founded_year":2006,"name":"ScanCafe","number_of_employees":350,"position":{"type":"Point","coordinates":[-122.369676,37.592584]}}
+{"category_code":"analytics","founded_year":2006,"name":"Networked Insights","number_of_employees":130,"position":{"type":"Point","coordinates":[-72.5254318,41.278528]}}
+{"category_code":"ecommerce","founded_year":2010,"name":"Magento","number_of_employees":275,"position":{"type":"Point","coordinates":[-118.243425,34.052187]}}
+{"category_code":"software","founded_year":2007,"name":"Perfect Market","number_of_employees":60,"position":{"type":"Point","coordinates":[-118.153136,34.146436]}}
+{"category_code":"web","founded_year":2007,"name":"Glassdoor","number_of_employees":180,"position":{"type":"Point","coordinates":[-122.500111,37.868002]}}
+{"category_code":"ecommerce","founded_year":2007,"name":"Bonobos","number_of_employees":150,"position":{"type":"Point","coordinates":[-73.9954585,40.7384997]}}
+{"category_code":"software","founded_year":2006,"name":"Marketo","number_of_employees":260,"position":{"type":"Point","coordinates":[-122.301385,37.5583]}}
+{"category_code":"software","founded_year":2005,"name":"Adlucent","number_of_employees":85,"position":{"type":"Point","coordinates":[-97.71813,30.316226]}}
+{"category_code":"web","founded_year":2005,"name":"Kudzu","number_of_employees":50,"position":{"type":"Point","coordinates":[-84.3884,33.7486]}}
+{"category_code":"web","founded_year":2005,"name":"Odeo","number_of_employees":60,"position":{"type":"Point","coordinates":[-73.981237,40.753918]}}
+{"category_code":"web","founded_year":2004,"name":"Cellfish","number_of_employees":220,"position":{"type":"Point","coordinates":[-73.983754,40.761855]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Huddle","number_of_employees":200,"position":{"type":"Point","coordinates":[-0.0814873,51.4999065]}}
+{"category_code":"software","founded_year":2004,"name":"Univa UD","number_of_employees":50,"position":{"type":"Point","coordinates":[-88.073008,41.808458]}}
+{"category_code":"ecommerce","founded_year":2006,"name":"RichRelevance","number_of_employees":250,"position":{"type":"Point","coordinates":[-122.4000965,37.7938969]}}
+{"category_code":"web","founded_year":2004,"name":"PixelCrayons","number_of_employees":200,"position":{"type":"Point","coordinates":[77.087502,28.682042]}}
+{"category_code":"ecommerce","founded_year":2006,"name":"Trovit","number_of_employees":56,"position":{"type":"Point","coordinates":[2.1299487,41.388769]}}
+{"category_code":"mobile","founded_year":2008,"name":"Mojiva","number_of_employees":105,"position":{"type":"Point","coordinates":[-73.998662,40.7185614]}}
+{"category_code":"ecommerce","founded_year":2006,"name":"ProcServe","number_of_employees":55,"position":{"type":"Point","coordinates":[-0.146665,51.494067]}}
+{"category_code":"web","founded_year":2005,"name":"alaTest","number_of_employees":50,"position":{"type":"Point","coordinates":[18.0670108,59.3578896]}}
+{"category_code":"software","founded_year":2008,"name":"GitHub","number_of_employees":106,"position":{"type":"Point","coordinates":[-122.419204,37.775196]}}
+{"category_code":"games_video","founded_year":2008,"name":"YUPPTV","number_of_employees":70,"position":{"type":"Point","coordinates":[78.434422,17.415429]}}
+{"category_code":"software","founded_year":2003,"name":"Globant","number_of_employees":2800,"position":{"type":"Point","coordinates":[-58.3708904,-34.5967236]}}
+{"category_code":"mobile","founded_year":2007,"name":"InMobi","number_of_employees":900,"position":{"type":"Point","coordinates":[-122.1709208,37.4465496]}}
+{"category_code":"games_video","founded_year":2007,"name":"Modern Feed","number_of_employees":123,"position":{"type":"Point","coordinates":[-118.343791,34.085749]}}
+{"category_code":"software","founded_year":2006,"name":"Zigron","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.420903,37.796164]}}
+{"category_code":"games_video","founded_year":2006,"name":"Kabam","number_of_employees":650,"position":{"type":"Point","coordinates":[-122.0785314,37.3944561]}}
+{"category_code":"software","founded_year":2008,"name":"New Relic","number_of_employees":63,"position":{"type":"Point","coordinates":[-119.306607,37.269175]}}
+{"category_code":"software","founded_year":2004,"name":"Velocify","number_of_employees":125,"position":{"type":"Point","coordinates":[-118.3952969,33.9192583]}}
+{"category_code":"software","founded_year":2006,"name":"MakeUseOf","number_of_employees":50,"position":{"type":"Point","coordinates":[-4.271165,55.862878]}}
+{"category_code":"web","founded_year":2007,"name":"Zinch","number_of_employees":80,"position":{"type":"Point","coordinates":[-111.658656,40.234451]}}
+{"category_code":"analytics","founded_year":2005,"name":"Talend","number_of_employees":400,"position":{"type":"Point","coordinates":[-122.111711,37.371908]}}
+{"category_code":"software","founded_year":2006,"name":"Cartedge","number_of_employees":100,"position":{"type":"Point","coordinates":[-111.900917,40.622919]}}
+{"category_code":"games_video","founded_year":2006,"name":"sevenload","number_of_employees":67,"position":{"type":"Point","coordinates":[6.921546,50.945289]}}
+{"category_code":"software","founded_year":2004,"name":"Boardwalktech","number_of_employees":75,"position":{"type":"Point","coordinates":[-122.103076,37.431941]}}
+{"category_code":"ecommerce","founded_year":2004,"name":"Tiny Prints","number_of_employees":250,"position":{"type":"Point","coordinates":[-122.056739,37.395902]}}
+{"category_code":"enterprise","founded_year":2004,"name":"NextBio","number_of_employees":75,"position":{"type":"Point","coordinates":[-122.05074,37.316653]}}
+{"category_code":"analytics","founded_year":2005,"name":"Aster Data Systems","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.2475729,37.5068854]}}
+{"category_code":"analytics","founded_year":2004,"name":"eBureau","number_of_employees":55,"position":{"type":"Point","coordinates":[-94.159452,45.560899]}}
+{"category_code":"software","founded_year":2006,"name":"Votigo","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.1192743,37.8919079]}}
+{"category_code":"web","founded_year":2007,"name":"GreenNote","number_of_employees":65,"position":{"type":"Point","coordinates":[-122.227765,37.492685]}}
+{"category_code":"web","founded_year":2003,"name":"Intelius","number_of_employees":131,"position":{"type":"Point","coordinates":[-122.196262,47.614723]}}
+{"category_code":"analytics","founded_year":2003,"name":"Vindicia","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.252115,37.538418]}}
+{"category_code":"software","founded_year":2005,"name":"WSO2","number_of_employees":228,"position":{"type":"Point","coordinates":[-122.080843,37.390918]}}
+{"category_code":"ecommerce","founded_year":2007,"name":"The Receivables Exchange","number_of_employees":70,"position":{"type":"Point","coordinates":[-73.9752768,40.757651]}}
+{"category_code":"software","founded_year":2006,"name":"Brainware","number_of_employees":65,"position":{"type":"Point","coordinates":[-77.464018,39.0601]}}
+{"category_code":"mobile","founded_year":2004,"name":"RRD USA","number_of_employees":60,"position":{"type":"Point","coordinates":[-73.984606,40.748342]}}
+{"category_code":"software","founded_year":2006,"name":"Making Sense","number_of_employees":100,"position":{"type":"Point","coordinates":[-98.43676,29.516352]}}
+{"category_code":"web","founded_year":2006,"name":"GARA Web Hosting","number_of_employees":480,"position":{"type":"Point","coordinates":[-83.126814,42.585951]}}
+{"category_code":"web","founded_year":2008,"name":"Geekdom","number_of_employees":50,"position":{"type":"Point","coordinates":[151.208584,-33.860404]}}
+{"category_code":"enterprise","founded_year":2005,"name":"InsideView","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.402021,37.764169]}}
+{"category_code":"software","founded_year":2004,"name":"UNOS Development","number_of_employees":50,"position":{"type":"Point","coordinates":[151.313553,-33.641732]}}
+{"category_code":"enterprise","founded_year":2004,"name":"Blueprint Software Systems","number_of_employees":100,"position":{"type":"Point","coordinates":[-79.381254,43.65101]}}
+{"category_code":"enterprise","founded_year":2005,"name":"Samba Tech","number_of_employees":60,"position":{"type":"Point","coordinates":[-43.954223,-19.815731]}}
+{"category_code":"games_video","founded_year":2006,"name":"VBS TV","number_of_employees":100,"position":{"type":"Point","coordinates":[-73.957968,40.720764]}}
+{"category_code":"enterprise","founded_year":2003,"name":"MarkLogic","number_of_employees":240,"position":{"type":"Point","coordinates":[-122.246867,37.506272]}}
+{"category_code":"web","founded_year":2003,"name":"Photobucket","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.332085,47.601803]}}
+{"category_code":"enterprise","founded_year":2005,"name":"Mendix","number_of_employees":150,"position":{"type":"Point","coordinates":[4.4574464,51.9047086]}}
+{"category_code":"software","founded_year":2004,"name":"Avature","number_of_employees":120,"position":{"type":"Point","coordinates":[-74.009242,40.706271]}}
+{"category_code":"mobile","founded_year":2006,"name":"Airtag","number_of_employees":50,"position":{"type":"Point","coordinates":[-74.0082089,40.704213]}}
+{"category_code":"mobile","founded_year":2008,"name":"PurpleTalk","number_of_employees":350,"position":{"type":"Point","coordinates":[-121.990755,37.387712]}}
+{"category_code":"mobile","founded_year":2007,"name":"Mobiquest","number_of_employees":300,"position":{"type":"Point","coordinates":[103.894124,1.326725]}}
+{"category_code":"web","founded_year":2008,"name":"Wahanda","number_of_employees":50,"position":{"type":"Point","coordinates":[1.996567,41.792265]}}
+{"category_code":"software","founded_year":2007,"name":"Zendesk","number_of_employees":400,"position":{"type":"Point","coordinates":[12.568116,55.676294]}}
+{"category_code":"ecommerce","founded_year":2007,"name":"Minted","number_of_employees":115,"position":{"type":"Point","coordinates":[-122.403175,37.797435]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Appirio","number_of_employees":500,"position":{"type":"Point","coordinates":[-122.2997532,37.5552776]}}
+{"category_code":"analytics","founded_year":2007,"name":"Kontagent","number_of_employees":80,"position":{"type":"Point","coordinates":[-122.4020593,37.7797255]}}
+{"category_code":"software","founded_year":2008,"name":"MapVersa","number_of_employees":110,"position":{"type":"Point","coordinates":[-117.20834,32.902266]}}
+{"category_code":"software","founded_year":2003,"name":"Qumu","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.422113,37.630551]}}
+{"category_code":"software","founded_year":2005,"name":"EffectiveUI","number_of_employees":97,"position":{"type":"Point","coordinates":[-104.990968,39.755152]}}
+{"category_code":"web","founded_year":2007,"name":"Huddler","number_of_employees":52,"position":{"type":"Point","coordinates":[-122.4013624,37.7893215]}}
+{"category_code":"software","founded_year":2009,"name":"Prezi","number_of_employees":110,"position":{"type":"Point","coordinates":[19.059078,47.490346]}}
+{"category_code":"mobile","founded_year":2004,"name":"db4objects","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.259232,37.524789]}}
+{"category_code":"software","founded_year":2005,"name":"Halosys","number_of_employees":62,"position":{"type":"Point","coordinates":[-121.9708095,37.3858901]}}
+{"category_code":"software","founded_year":2003,"name":"Industria","number_of_employees":100,"position":{"type":"Point","coordinates":[-0.126236,51.500152]}}
+{"category_code":"games_video","founded_year":2008,"name":"ngmoco","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.4015807,37.7705096]}}
+{"category_code":"enterprise","founded_year":2005,"name":"Dataupia","number_of_employees":60,"position":{"type":"Point","coordinates":[-71.1404961,42.3988457]}}
+{"category_code":"web","founded_year":2005,"name":"Koolanoo Group","number_of_employees":280,"position":{"type":"Point","coordinates":[116.395833,39.905556]}}
+{"category_code":"software","founded_year":2003,"name":"Interspire","number_of_employees":50,"position":{"type":"Point","coordinates":[151.21231,-33.878684]}}
+{"category_code":"software","founded_year":2004,"name":"Likewise Software","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.135282,47.582658]}}
+{"category_code":"software","founded_year":2010,"name":"Integrate","number_of_employees":120,"position":{"type":"Point","coordinates":[-74.0353787,40.7481039]}}
+{"category_code":"mobile","founded_year":2006,"name":"Pioco","number_of_employees":54,"position":{"type":"Point","coordinates":[121.475,31.222222]}}
+{"category_code":"enterprise","founded_year":2005,"name":"Nextiva","number_of_employees":200,"position":{"type":"Point","coordinates":[-111.8963228,33.555878]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Panjiva","number_of_employees":50,"position":{"type":"Point","coordinates":[-73.991561,40.741276]}}
+{"category_code":"software","founded_year":2005,"name":"Atigeo","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.2016685,47.6174533]}}
+{"category_code":"software","founded_year":2005,"name":"UBmatrix","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.258139,37.522281]}}
+{"category_code":"software","founded_year":2007,"name":"Lyft","number_of_employees":180,"position":{"type":"Point","coordinates":[-122.4007846,37.7899027]}}
+{"category_code":"analytics","founded_year":2006,"name":"Demandbase","number_of_employees":80,"position":{"type":"Point","coordinates":[-122.400346,37.796843]}}
+{"category_code":"software","founded_year":2006,"name":"Spotmau Corporation","number_of_employees":70,"position":{"type":"Point","coordinates":[-95.3082988,29.985528]}}
+{"category_code":"enterprise","founded_year":2008,"name":"Yammer","number_of_employees":400,"position":{"type":"Point","coordinates":[-122.4179223,37.776246]}}
+{"category_code":"enterprise","founded_year":2007,"name":"ConnectSolutions","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.347745,37.580093]}}
+{"category_code":"web","founded_year":2008,"name":"Lolapps","number_of_employees":65,"position":{"type":"Point","coordinates":[-122.3999719,37.7870923]}}
+{"category_code":"mobile","founded_year":2007,"name":"inTALK","number_of_employees":100,"position":{"type":"Point","coordinates":[-111.892085,33.407392]}}
+{"category_code":"enterprise","founded_year":2007,"name":"RiseSmart","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.012808,37.383526]}}
+{"category_code":"web","founded_year":2008,"name":"Groupon","number_of_employees":10000,"position":{"type":"Point","coordinates":[-87.643622,41.8965162]}}
+{"category_code":"software","founded_year":2003,"name":"metaio","number_of_employees":65,"position":{"type":"Point","coordinates":[11.553725,48.160718]}}
+{"category_code":"software","founded_year":2012,"name":"Navara","number_of_employees":80,"position":{"type":"Point","coordinates":[5.038078,52.126616]}}
+{"category_code":"web","founded_year":2006,"name":"FamilyLink","number_of_employees":60,"position":{"type":"Point","coordinates":[-111.643179,40.250096]}}
+{"category_code":"games_video","founded_year":2007,"name":"Meteor Games","number_of_employees":70,"position":{"type":"Point","coordinates":[-118.378335,34.09316]}}
+{"category_code":"software","founded_year":2005,"name":"Nexenta Systems","number_of_employees":200,"position":{"type":"Point","coordinates":[-122.161287,37.444098]}}
+{"category_code":"ecommerce","founded_year":2003,"name":"Vinfolio","number_of_employees":68,"position":{"type":"Point","coordinates":[-122.410752,37.763293]}}
+{"category_code":"web","founded_year":2007,"name":"TVGla","number_of_employees":55,"position":{"type":"Point","coordinates":[-118.439532,33.988687]}}
+{"category_code":"enterprise","founded_year":2008,"name":"Cloudera","number_of_employees":230,"position":{"type":"Point","coordinates":[-122.3497546,37.5783417]}}
+{"category_code":"enterprise","founded_year":2004,"name":"Apigee","number_of_employees":65,"position":{"type":"Point","coordinates":[-121.967223,37.369445]}}
+{"category_code":"software","founded_year":2006,"name":"Railsware","number_of_employees":60,"position":{"type":"Point","coordinates":[-122.827044,45.494668]}}
+{"category_code":"software","founded_year":2006,"name":"ReverbNation","number_of_employees":85,"position":{"type":"Point","coordinates":[-78.904075,36.002893]}}
+{"category_code":"ecommerce","founded_year":2008,"name":"Wishabi","number_of_employees":50,"position":{"type":"Point","coordinates":[-79.567221,43.644678]}}
+{"category_code":"finance","founded_year":2008,"name":"BrightScope","number_of_employees":70,"position":{"type":"Point","coordinates":[-117.2117395,32.873081]}}
+{"category_code":"enterprise","founded_year":2003,"name":"Model Metrics","number_of_employees":120,"position":{"type":"Point","coordinates":[-87.6371628,41.8961282]}}
+{"category_code":"software","founded_year":2005,"name":"Tekriti Software","number_of_employees":200,"position":{"type":"Point","coordinates":[77.003186,28.435018]}}
+{"category_code":"enterprise","founded_year":2006,"name":"SOASTA","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.087417,37.418616]}}
+{"category_code":"software","founded_year":2005,"name":"Open-Xchange","number_of_employees":100,"position":{"type":"Point","coordinates":[-73.8625452,41.0662835]}}
+{"category_code":"games_video","founded_year":2004,"name":"SPIL GAMES","number_of_employees":300,"position":{"type":"Point","coordinates":[5.198824,52.220726]}}
+{"category_code":"web","founded_year":2004,"name":"Populis","number_of_employees":140,"position":{"type":"Point","coordinates":[12.4972454,41.8663418]}}
+{"category_code":"web","founded_year":2007,"name":"Trustpilot","number_of_employees":100,"position":{"type":"Point","coordinates":[12.5605372,55.6739617]}}
+{"category_code":"software","founded_year":2005,"name":"Collabor","number_of_employees":60,"position":{"type":"Point","coordinates":[-71.590103,42.3389044]}}
+{"category_code":"web","founded_year":2008,"name":"Decho","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.3326145,47.6024156]}}
+{"category_code":"software","founded_year":2007,"name":"Clearleap","number_of_employees":75,"position":{"type":"Point","coordinates":[-84.058708,34.070164]}}
+{"category_code":"enterprise","founded_year":2007,"name":"Twilio","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.4006831,37.7898499]}}
+{"category_code":"mobile","founded_year":2008,"name":"Movirtu","number_of_employees":50,"position":{"type":"Point","coordinates":[-0.1815999,51.5499708]}}
+{"category_code":"web","founded_year":2008,"name":"IsayBlog!","number_of_employees":154,"position":{"type":"Point","coordinates":[12.4764711,41.8924033]}}
+{"category_code":"software","founded_year":2007,"name":"ZeroTurnaround","number_of_employees":70,"position":{"type":"Point","coordinates":[26.731054,58.3820542]}}
+{"category_code":"software","founded_year":2006,"name":"Synthesio","number_of_employees":75,"position":{"type":"Point","coordinates":[-73.9935011,40.7431836]}}
+{"category_code":"web","founded_year":2007,"name":"Deal4Loans","number_of_employees":60,"position":{"type":"Point","coordinates":[77.0789194,28.4404308]}}
+{"category_code":"web","founded_year":2007,"name":"Webedia","number_of_employees":50,"position":{"type":"Point","coordinates":[2.3522219,48.856614]}}
+{"category_code":"mobile","founded_year":2004,"name":"mFoundry","number_of_employees":160,"position":{"type":"Point","coordinates":[-122.493561,37.862592]}}
+{"category_code":"mobile","founded_year":2008,"name":"CyberSynchs","number_of_employees":100,"position":{"type":"Point","coordinates":[-73.990033,40.745534]}}
+{"category_code":"enterprise","founded_year":2003,"name":"CampusEAI","number_of_employees":200,"position":{"type":"Point","coordinates":[-81.6747295,41.5139193]}}
+{"category_code":"mobile","founded_year":2004,"name":"Fishlabs","number_of_employees":65,"position":{"type":"Point","coordinates":[10.015551,53.5845505]}}
+{"category_code":"ecommerce","founded_year":2006,"name":"DotNext","number_of_employees":100,"position":{"type":"Point","coordinates":[-121.8794209,37.7008794]}}
+{"category_code":"web","founded_year":2008,"name":"LeapFish","number_of_employees":110,"position":{"type":"Point","coordinates":[-121.8794206,37.700863]}}
+{"category_code":"software","founded_year":2007,"name":"Pardot","number_of_employees":50,"position":{"type":"Point","coordinates":[-84.3565171,33.84662]}}
+{"category_code":"software","founded_year":2003,"name":"Tableau Software","number_of_employees":92,"position":{"type":"Point","coordinates":[-122.3545086,47.6504518]}}
+{"category_code":"enterprise","founded_year":2007,"name":"Apprenda","number_of_employees":51,"position":{"type":"Point","coordinates":[-73.782775,42.856515]}}
+{"category_code":"software","founded_year":2007,"name":"PrestaShop","number_of_employees":80,"position":{"type":"Point","coordinates":[2.3593849,48.8687217]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Appcelerator","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.0808426,37.3909185]}}
+{"category_code":"analytics","founded_year":2008,"name":"Silver Tail Systems","number_of_employees":90,"position":{"type":"Point","coordinates":[-122.143368,37.4280877]}}
+{"category_code":"software","founded_year":2006,"name":"Veeam Software","number_of_employees":1500,"position":{"type":"Point","coordinates":[-83.088566,40.088052]}}
+{"category_code":"software","founded_year":2006,"name":"ViaCube","number_of_employees":50,"position":{"type":"Point","coordinates":[-84.389663,33.754487]}}
+{"category_code":"finance","founded_year":2004,"name":"SecondMarket","number_of_employees":140,"position":{"type":"Point","coordinates":[-74.012822,40.705439]}}
+{"category_code":"mobile","founded_year":2007,"name":"RideCharge","number_of_employees":75,"position":{"type":"Point","coordinates":[-77.038605,38.814329]}}
+{"category_code":"software","founded_year":2005,"name":"Smart Online","number_of_employees":52,"position":{"type":"Point","coordinates":[-78.8392427,35.8772527]}}
+{"category_code":"software","founded_year":2004,"name":"QualSoft Services","number_of_employees":100,"position":{"type":"Point","coordinates":[-73.720916,40.632734]}}
+{"category_code":"web","founded_year":2007,"name":"Green Apple Media","number_of_employees":50,"position":{"type":"Point","coordinates":[-6.2689465,53.3438298]}}
+{"category_code":"web","founded_year":2003,"name":"CouponCabin","number_of_employees":50,"position":{"type":"Point","coordinates":[-88.144397,42.052004]}}
+{"category_code":"games_video","founded_year":2003,"name":"RGB Networks","number_of_employees":125,"position":{"type":"Point","coordinates":[-122.0216271,37.4123706]}}
+{"category_code":"software","founded_year":2007,"name":"Sysomos","number_of_employees":50,"position":{"type":"Point","coordinates":[-79.3979364,43.65508]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Elemental Technologies","number_of_employees":130,"position":{"type":"Point","coordinates":[-122.677001,45.519179]}}
+{"category_code":"web","founded_year":2003,"name":"LawCrossing","number_of_employees":100,"position":{"type":"Point","coordinates":[-118.1323783,34.1428388]}}
+{"category_code":"software","founded_year":2003,"name":"Packet Design","number_of_employees":60,"position":{"type":"Point","coordinates":[-121.970505,37.3821368]}}
+{"category_code":"enterprise","founded_year":2006,"name":"OSSCube Solutions","number_of_employees":200,"position":{"type":"Point","coordinates":[-78.8677462,35.8387361]}}
+{"category_code":"web","founded_year":2008,"name":"Central Reservations","number_of_employees":510,"position":{"type":"Point","coordinates":[-6.2644783,53.342689]}}
+{"category_code":"enterprise","founded_year":2007,"name":"Kaazing","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.0797269,37.3941256]}}
+{"category_code":"web","founded_year":2006,"name":"2AdPro","number_of_employees":350,"position":{"type":"Point","coordinates":[-118.6356318,34.1580778]}}
+{"category_code":"software","founded_year":2005,"name":"Iken Solutions","number_of_employees":70,"position":{"type":"Point","coordinates":[-58.5511077,-34.4942649]}}
+{"category_code":"enterprise","founded_year":2005,"name":"Clarabridge","number_of_employees":150,"position":{"type":"Point","coordinates":[-77.340436,38.946532]}}
+{"category_code":"software","founded_year":2007,"name":"Nalini Networks","number_of_employees":110,"position":{"type":"Point","coordinates":[139.1870746,35.2675117]}}
+{"category_code":"web","founded_year":2004,"name":"Double Fusion","number_of_employees":80,"position":{"type":"Point","coordinates":[-122.3927145,37.7887135]}}
+{"category_code":"software","founded_year":2003,"name":"Mantara","number_of_employees":50,"position":{"type":"Point","coordinates":[-74.032177,40.726517]}}
+{"category_code":"mobile","founded_year":2008,"name":"5th Finger","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.4021988,37.7900992]}}
+{"category_code":"software","founded_year":2006,"name":"SundaySky","number_of_employees":103,"position":{"type":"Point","coordinates":[34.8388443,32.1115098]}}
+{"category_code":"software","founded_year":2004,"name":"Alachisoft","number_of_employees":50,"position":{"type":"Point","coordinates":[-121.963321,37.770657]}}
+{"category_code":"software","founded_year":2006,"name":"Targetprocess","number_of_employees":60,"position":{"type":"Point","coordinates":[-78.798947,42.979367]}}
+{"category_code":"enterprise","founded_year":2008,"name":"CTERA Networks","number_of_employees":60,"position":{"type":"Point","coordinates":[-122.159928,37.437328]}}
+{"category_code":"software","founded_year":2003,"name":"Adaptive Planning","number_of_employees":65,"position":{"type":"Point","coordinates":[-122.0887097,37.4192309]}}
+{"category_code":"software","founded_year":2007,"name":"Vocalocity","number_of_employees":175,"position":{"type":"Point","coordinates":[-84.3675617,33.7812614]}}
+{"category_code":"software","founded_year":2004,"name":"SparkBase","number_of_employees":51,"position":{"type":"Point","coordinates":[-81.666101,41.513652]}}
+{"category_code":"software","founded_year":2008,"name":"AssureSign","number_of_employees":60,"position":{"type":"Point","coordinates":[-81.384939,28.672321]}}
+{"category_code":"web","founded_year":2003,"name":"Naseeb Networks","number_of_employees":100,"position":{"type":"Point","coordinates":[-121.9303616,37.3015115]}}
+{"category_code":"ecommerce","founded_year":2008,"name":"Hello Travel","number_of_employees":1000,"position":{"type":"Point","coordinates":[-73.971697,40.7642348]}}
+{"category_code":"mobile","founded_year":2006,"name":"NEXAGE","number_of_employees":60,"position":{"type":"Point","coordinates":[-121.9250553,37.4777028]}}
+{"category_code":"software","founded_year":2004,"name":"Quantum Secure","number_of_employees":160,"position":{"type":"Point","coordinates":[-121.915594,37.367838]}}
+{"category_code":"enterprise","founded_year":2009,"name":"Talari Networks","number_of_employees":60,"position":{"type":"Point","coordinates":[-121.949417,37.317735]}}
+{"category_code":"software","founded_year":2007,"name":"Ginger Software","number_of_employees":50,"position":{"type":"Point","coordinates":[-71.2344601,42.4352222]}}
+{"category_code":"games_video","founded_year":2005,"name":"i-Jet Media","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.012475,37.384239]}}
+{"category_code":"software","founded_year":2004,"name":"Rigel Networks","number_of_employees":200,"position":{"type":"Point","coordinates":[-117.867679,33.660955]}}
+{"category_code":"mobile","founded_year":2006,"name":"Mobifusion","number_of_employees":51,"position":{"type":"Point","coordinates":[-121.9780378,37.552104]}}
+{"category_code":"web","founded_year":2004,"name":"Neverblue","number_of_employees":110,"position":{"type":"Point","coordinates":[-123.363909,48.4244865]}}
+{"category_code":"software","founded_year":2004,"name":"Medio","number_of_employees":90,"position":{"type":"Point","coordinates":[-122.331308,47.611827]}}
+{"category_code":"software","founded_year":2005,"name":"WANdisco","number_of_employees":175,"position":{"type":"Point","coordinates":[-121.966395,37.769205]}}
+{"category_code":"software","founded_year":2003,"name":"Backbase","number_of_employees":80,"position":{"type":"Point","coordinates":[-74.0059731,40.7143528]}}
+{"category_code":"software","founded_year":2003,"name":"Leo TechnoSoft","number_of_employees":100,"position":{"type":"Point","coordinates":[-81.375467,28.396758]}}
+{"category_code":"ecommerce","founded_year":2005,"name":"EyeBuyDirect","number_of_employees":200,"position":{"type":"Point","coordinates":[-77.093279,38.9825332]}}
+{"category_code":"software","founded_year":2005,"name":"Velneo","number_of_employees":60,"position":{"type":"Point","coordinates":[-8.6105703,42.1638716]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Skytap","number_of_employees":200,"position":{"type":"Point","coordinates":[-122.334732,47.544341]}}
+{"category_code":"games_video","founded_year":2005,"name":"Geewa","number_of_employees":60,"position":{"type":"Point","coordinates":[14.4505336,50.0938491]}}
+{"category_code":"software","founded_year":2003,"name":"SPAMfighter","number_of_employees":50,"position":{"type":"Point","coordinates":[12.5314362,55.696955]}}
+{"category_code":"software","founded_year":2006,"name":"NearSoft Europe","number_of_employees":100,"position":{"type":"Point","coordinates":[8.5436847,47.3799427]}}
+{"category_code":"software","founded_year":2009,"name":"AppZero","number_of_employees":50,"position":{"type":"Point","coordinates":[-71.1469003,42.6751888]}}
+{"category_code":"software","founded_year":2005,"name":"Across Systems","number_of_employees":60,"position":{"type":"Point","coordinates":[-118.2551,34.1527593]}}
+{"category_code":"games_video","founded_year":2004,"name":"Unity Technologies","number_of_employees":200,"position":{"type":"Point","coordinates":[12.530107,55.6924605]}}
+{"category_code":"software","founded_year":2008,"name":"IGLOO Software","number_of_employees":50,"position":{"type":"Point","coordinates":[-80.487328,43.4496954]}}
+{"category_code":"web","founded_year":2005,"name":"CalFinder","number_of_employees":60,"position":{"type":"Point","coordinates":[-122.277506,37.797862]}}
+{"category_code":"software","founded_year":2007,"name":"Jama Software","number_of_employees":103,"position":{"type":"Point","coordinates":[-122.68038,45.5309644]}}
+{"category_code":"enterprise","founded_year":2008,"name":"TaskUs","number_of_employees":540,"position":{"type":"Point","coordinates":[-118.4450063,34.0165394]}}
+{"category_code":"software","founded_year":2005,"name":"Infobright","number_of_employees":50,"position":{"type":"Point","coordinates":[-79.3749698,43.6490631]}}
+{"category_code":"games_video","founded_year":2008,"name":"SCVNGR","number_of_employees":60,"position":{"type":"Point","coordinates":[-71.0680027,42.3406534]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Axcient","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.0595623,37.3973018]}}
+{"category_code":"games_video","founded_year":2009,"name":"Z2Live","number_of_employees":130,"position":{"type":"Point","coordinates":[-122.3399782,47.6103008]}}
+{"category_code":"mobile","founded_year":2009,"name":"Y Media Labs","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.229097,37.494561]}}
+{"category_code":"software","founded_year":2006,"name":"Openbravo","number_of_employees":100,"position":{"type":"Point","coordinates":[2.1660785,41.3935324]}}
+{"category_code":"analytics","founded_year":2009,"name":"Chartbeat","number_of_employees":50,"position":{"type":"Point","coordinates":[-73.990967,40.73343]}}
+{"category_code":"ecommerce","founded_year":2009,"name":"Brandsclub","number_of_employees":140,"position":{"type":"Point","coordinates":[-46.6388182,-23.5489433]}}
+{"category_code":"enterprise","founded_year":2007,"name":"ExtraHop Networks","number_of_employees":50,"position":{"type":"Point","coordinates":[-122.361239,47.6209107]}}
+{"category_code":"software","founded_year":2007,"name":"Basho Technologies","number_of_employees":110,"position":{"type":"Point","coordinates":[-71.092285,42.365867]}}
+{"category_code":"software","founded_year":2003,"name":"Bomgar","number_of_employees":150,"position":{"type":"Point","coordinates":[-90.1633006,32.416174]}}
+{"category_code":"software","founded_year":2007,"name":"Adeptol","number_of_employees":60,"position":{"type":"Point","coordinates":[-121.977065,37.381341]}}
+{"category_code":"software","founded_year":2006,"name":"itEANz","number_of_employees":75,"position":{"type":"Point","coordinates":[77.6295577,12.9332419]}}
+{"category_code":"enterprise","founded_year":2004,"name":"Birst","number_of_employees":150,"position":{"type":"Point","coordinates":[-122.404113,37.789471]}}
+{"category_code":"software","founded_year":2004,"name":"Navatar Group","number_of_employees":80,"position":{"type":"Point","coordinates":[-73.991877,40.733242]}}
+{"category_code":"games_video","founded_year":2005,"name":"StreamTheWorld","number_of_employees":65,"position":{"type":"Point","coordinates":[-73.5767499,45.4961227]}}
+{"category_code":"software","founded_year":2007,"name":"Veeva","number_of_employees":510,"position":{"type":"Point","coordinates":[-121.900722,37.69249]}}
+{"category_code":"web","founded_year":2007,"name":"Taipan Publishing Group","number_of_employees":100,"position":{"type":"Point","coordinates":[-76.616747,39.298734]}}
+{"category_code":"ecommerce","founded_year":2003,"name":"OfferWire","number_of_employees":65,"position":{"type":"Point","coordinates":[-80.3821092,27.6476577]}}
+{"category_code":"games_video","founded_year":2004,"name":"[212]Media","number_of_employees":75,"position":{"type":"Point","coordinates":[-73.98618,40.743877]}}
+{"category_code":"web","founded_year":2005,"name":"My-Hammer","number_of_employees":70,"position":{"type":"Point","coordinates":[13.3883606,52.5092312]}}
+{"category_code":"mobile","founded_year":2008,"name":"skobbler","number_of_employees":70,"position":{"type":"Point","coordinates":[10.0115926,53.5771514]}}
+{"category_code":"enterprise","founded_year":2004,"name":"t3leads","number_of_employees":55,"position":{"type":"Point","coordinates":[-118.457632,34.152011]}}
+{"category_code":"ecommerce","founded_year":2005,"name":"Autoquake","number_of_employees":100,"position":{"type":"Point","coordinates":[-0.172364,51.543337]}}
+{"category_code":"enterprise","founded_year":2008,"name":"Hara","number_of_employees":60,"position":{"type":"Point","coordinates":[-122.169472,37.48413]}}
+{"category_code":"ecommerce","founded_year":2005,"name":"Merchantrms","number_of_employees":117,"position":{"type":"Point","coordinates":[-79.2354377,43.7896181]}}
+{"category_code":"software","founded_year":2008,"name":"Engagement Systems","number_of_employees":80,"position":{"type":"Point","coordinates":[-94.483334,39.156427]}}
+{"category_code":"mobile","founded_year":2005,"name":"Binbit","number_of_employees":300,"position":{"type":"Point","coordinates":[-100.3760321,25.6600605]}}
+{"category_code":"web","founded_year":2006,"name":"isango!","number_of_employees":50,"position":{"type":"Point","coordinates":[-0.1361616,51.519816]}}
+{"category_code":"software","founded_year":2006,"name":"Tiempo Development","number_of_employees":230,"position":{"type":"Point","coordinates":[-111.9387842,33.4298452]}}
+{"category_code":"software","founded_year":2003,"name":"Tribold","number_of_employees":106,"position":{"type":"Point","coordinates":[-0.1424094,51.5209358]}}
+{"category_code":"ecommerce","founded_year":2005,"name":"TVU Networks","number_of_employees":60,"position":{"type":"Point","coordinates":[-122.085021,37.416349]}}
+{"category_code":"web","founded_year":2003,"name":"Zemoga","number_of_employees":140,"position":{"type":"Point","coordinates":[-73.989947,40.744697]}}
+{"category_code":"software","founded_year":2003,"name":"LearningMate","number_of_employees":190,"position":{"type":"Point","coordinates":[-123.1409704,49.2836544]}}
+{"category_code":"ecommerce","founded_year":2008,"name":"Steppy Frog Design Studio","number_of_employees":50,"position":{"type":"Point","coordinates":[80.226749,13.1115592]}}
+{"category_code":"software","founded_year":2004,"name":"Pontis","number_of_employees":105,"position":{"type":"Point","coordinates":[34.8824253,32.1980455]}}
+{"category_code":"analytics","founded_year":2005,"name":"OpTier","number_of_employees":150,"position":{"type":"Point","coordinates":[-73.985647,40.754937]}}
+{"category_code":"enterprise","founded_year":2007,"name":"Pragmatic Works","number_of_employees":65,"position":{"type":"Point","coordinates":[-81.819905,30.037994]}}
+{"category_code":"software","founded_year":2003,"name":"Layer 7 Technologies","number_of_employees":165,"position":{"type":"Point","coordinates":[-77.028561,38.897976]}}
+{"category_code":"software","founded_year":2006,"name":"FireScope","number_of_employees":65,"position":{"type":"Point","coordinates":[-118.012553,33.664705]}}
+{"category_code":"enterprise","founded_year":2006,"name":"Maxymiser","number_of_employees":250,"position":{"type":"Point","coordinates":[-3.2151393,55.9485591]}}
+{"category_code":"web","founded_year":2008,"name":"StyleCaster","number_of_employees":60,"position":{"type":"Point","coordinates":[-73.9900984,40.7450497]}}
+{"category_code":"software","founded_year":2008,"name":"Testplant","number_of_employees":50,"position":{"type":"Point","coordinates":[-0.1037742,51.517356]}}
+{"category_code":"software","founded_year":2004,"name":"UCWeb","number_of_employees":1700,"position":{"type":"Point","coordinates":[113.3853308,23.1337544]}}
+{"category_code":"enterprise","founded_year":2007,"name":"GreenBytes","number_of_employees":54,"position":{"type":"Point","coordinates":[-71.421059,41.829229]}}
+{"category_code":"software","founded_year":2007,"name":"Clavis Technology","number_of_employees":50,"position":{"type":"Point","coordinates":[-71.084153,42.3626626]}}
+{"category_code":"software","founded_year":2007,"name":"ALOT","number_of_employees":50,"position":{"type":"Point","coordinates":[-74.006023,40.72616]}}
+{"category_code":"enterprise","founded_year":2004,"name":"NextLabs","number_of_employees":100,"position":{"type":"Point","coordinates":[-122.301534,37.553121]}}
