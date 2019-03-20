@@ -1,0 +1,10 @@
+# Glosario
+# df8 = df con merge genre y countries
+# df7 = df con todos los dummies
+# df6_4 = df después de todos los merge
+# df6 = df antes de merge con dummies y después de filtrar revenue y budget
+# df5 = df después de get_revenue
+# df4s = sample de df4
+# df4 = df antes de get_revenue * ahora igual a df5
+# df3 = df antes de get_budget
+# df2 = sample de df    df2 = df[1000:1465].copy()
