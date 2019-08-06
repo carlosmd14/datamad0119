@@ -53,3 +53,21 @@ LEFT JOIN titles
 ON titleauthor.title_id=titles.title_id
 GROUP BY authors.au_id
 ORDER BY TOTAL DESC
+
+#Bonus
+
+SELECT 
+DISTINCT(a.au_id) 'AUTHOR ID', 
+a.au_lname 'LAST NAME', 
+a.au_fname 'FIRST NAME',
+sum(t.price * s.qty * t.royalty / 100 * ta.royaltyper / 100) 'PROFIT'
+FROM authors a
+INNER JOIN titleauthor ta 
+ON a.au_id=ta.au_id
+INNER JOIN titles t 
+ON ta.title_id=t.title_id
+INNER JOIN sales s 
+ON s.title_id=t.title_id
+GROUP by a.au_id
+ORDER BY sum(t.price * s.qty * t.royalty / 100 * ta.royaltyper / 100) DESC
+LIMIT 3;
